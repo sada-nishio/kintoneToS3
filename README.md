@@ -1,5 +1,5 @@
 # kintoneToS3
-Amazon Lambda 上で実行され kintone のレコードデータを CSV形式で S3 にアップロードするツール(Power BI 解析用)
+Amazon Lambda 上で実行され kintone のレコードデータを CSV形式で S3 にアップロードする
 
 ##Usage
 1. `$ git clone https://github.com/sada-nishio/kintoneToS3.git`
